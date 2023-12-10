@@ -1,0 +1,15 @@
+0	SIL
+1	IY
+2	K
+3	?
+4	EY
+5	T
+6	W
+7	AH
+8	AO
+9	AA
+10	P
+11	F
+12	ER
+13	CH
+14	UH
